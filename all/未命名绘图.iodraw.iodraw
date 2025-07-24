@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="80" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-7" value="初始化模块" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="230" height="156" as="geometry" />
+          <mxGeometry x="100" y="140" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-8" value="初始化套接字" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-7">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -25,11 +25,8 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-10" value="日志模块初始化" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-7">
           <mxGeometry y="78" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-11" value="日志模块初始化" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-7">
-          <mxGeometry y="104" width="230" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-12" value="客户端连接初始化" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-7">
-          <mxGeometry y="130" width="230" height="26" as="geometry" />
+          <mxGeometry y="104" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-14" value="客户端连接处理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="230" height="78" as="geometry" />
