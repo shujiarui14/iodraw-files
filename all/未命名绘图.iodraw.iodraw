@@ -98,16 +98,10 @@
           <mxGeometry y="78" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-45" value="初始化配置文件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="290" width="225" height="104" as="geometry" />
+          <mxGeometry x="505" y="290" width="225" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-46" value="case1:第一次使用，需要用户填入服务器IP，" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-45">
-          <mxGeometry y="26" width="225" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-47" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-45">
-          <mxGeometry y="52" width="225" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-48" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-45">
-          <mxGeometry y="78" width="225" height="26" as="geometry" />
+          <mxGeometry y="26" width="225" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
