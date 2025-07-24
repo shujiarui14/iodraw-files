@@ -118,7 +118,7 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-61" value="上传文件-u&amp;nbsp; (upload)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="106" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-62" value="上传文件-u&amp;nbsp; (upload)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
+        <mxCell id="YVzNf8EbODibB0_OoJCu-62" value="下载文件-d&amp;nbsp; (download)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="132" width="220" height="26" as="geometry" />
         </mxCell>
       </root>
