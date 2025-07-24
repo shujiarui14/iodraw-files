@@ -13,12 +13,6 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;i&gt;Server&lt;/i&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="240" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;初始化模块&lt;/h1&gt;&lt;p&gt;创建&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="180" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
