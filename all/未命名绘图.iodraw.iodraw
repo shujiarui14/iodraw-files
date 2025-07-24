@@ -107,13 +107,16 @@
           <mxGeometry y="100" width="225" height="74" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-50" value="用户命令解析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="510" width="225" height="154" as="geometry" />
+          <mxGeometry x="510" y="510" width="225" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-51" value="用户每次要对文件操作，都需要运行一次客户端，类似于rsync这种操作" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-50">
           <mxGeometry y="26" width="225" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-52" value="修改配置文件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-50">
-          <mxGeometry y="80" width="225" height="74" as="geometry" />
+        <mxCell id="YVzNf8EbODibB0_OoJCu-52" value="修改配置文件" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-50">
+          <mxGeometry y="80" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-56" value="修改配置文件" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
