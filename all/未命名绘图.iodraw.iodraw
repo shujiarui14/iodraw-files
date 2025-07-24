@@ -124,7 +124,7 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-63" value="文件重命名-r&amp;nbsp; (rename)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="158" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-64" value="删除文件&amp;nbsp; (erase)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
+        <mxCell id="YVzNf8EbODibB0_OoJCu-64" value="删除文件-e&amp;nbsp; (erase)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="184" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-66" value="测试服务器是否连通-n&amp;nbsp; (net)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
