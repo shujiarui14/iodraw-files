@@ -136,6 +136,9 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-65" value="获取帮助-s&amp;nbsp; (sign up)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="262" width="220" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-68" value="获取帮助-s&amp;nbsp; (sign up)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="802" width="220" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
