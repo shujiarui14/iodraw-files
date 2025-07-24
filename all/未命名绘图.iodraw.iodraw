@@ -106,6 +106,15 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-46" value="case2:后续使用，程序自己去配置文件读取，服务器IP、端口、用户名、密码。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-45">
           <mxGeometry y="100" width="225" height="74" as="geometry" />
         </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-50" value="初始化配置文件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="300" width="225" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-51" value="case1:第一次使用，需要用户填入服务器IP、端口、用户名、密码，来完成配置。会生成一个配置文件，后续再次使用就无需再输入这些信息，直接读取。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-50">
+          <mxGeometry y="26" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-52" value="case2:后续使用，程序自己去配置文件读取，服务器IP、端口、用户名、密码。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-50">
+          <mxGeometry y="100" width="225" height="74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
