@@ -107,7 +107,7 @@
           <mxGeometry y="100" width="225" height="74" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-58" value="用户命令解析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="530" width="220" height="132" as="geometry" />
+          <mxGeometry x="510" y="530" width="220" height="158" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-59" value="用户每次要对文件操作，都需要运行一次客户端，类似于rsync这种操作" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="26" width="220" height="54" as="geometry" />
@@ -115,8 +115,11 @@
         <mxCell id="YVzNf8EbODibB0_OoJCu-60" value="修改配置文件&amp;nbsp; -m&amp;nbsp; &amp;nbsp;(modify)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="80" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YVzNf8EbODibB0_OoJCu-61" value="上传文件-u&amp;nbsp; (upload)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
+        <mxCell id="YVzNf8EbODibB0_OoJCu-61" value="上传文件-u&amp;nbsp; (upload)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
           <mxGeometry y="106" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YVzNf8EbODibB0_OoJCu-62" value="上传文件-u&amp;nbsp; (upload)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-58">
+          <mxGeometry y="132" width="220" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
