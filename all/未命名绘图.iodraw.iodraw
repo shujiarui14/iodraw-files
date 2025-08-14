@@ -146,7 +146,7 @@
           <mxGeometry y="288" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-69" value="服务器请求" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="878" width="220" height="100" as="geometry" />
+          <mxGeometry x="510" y="860" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YVzNf8EbODibB0_OoJCu-70" value="创建连接套接字" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YVzNf8EbODibB0_OoJCu-69">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
