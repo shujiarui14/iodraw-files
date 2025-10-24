@@ -94,10 +94,16 @@
         <mxCell id="3OrwYQCOeV9Sr0apo898-30" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;is_permit&quot;: 1,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// int 类型，1 表示允许，0 表示不允许&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;remain_sets&quot;: 15,&amp;nbsp; &amp;nbsp; &amp;nbsp; // short 类型，剩余次数或数量&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;deduction&quot;: 300&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// unsigned short 类型，超时时间或其他值&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.002;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3OrwYQCOeV9Sr0apo898-1">
+        <mxCell id="3OrwYQCOeV9Sr0apo898-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="120" as="sourcePoint" />
-            <mxPoint x="300" y="80" as="targetPoint" />
+            <mxPoint x="290" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
