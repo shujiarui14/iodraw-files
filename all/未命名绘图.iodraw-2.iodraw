@@ -28,20 +28,26 @@
         <mxCell id="3OrwYQCOeV9Sr0apo898-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A7&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="230" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="140" width="230" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-10" value="to_32-&amp;gt; int req_to_32();" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="77.5" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-11" value="from_32-&amp;gt;&amp;nbsp; int ack_from_32();" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="147.5" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3OrwYQCOeV9Sr0apo898-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;stm32&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="10" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="70" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OrwYQCOeV9Sr0apo898-13">
+          <mxGeometry x="10" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-10" value="to_32-&amp;gt; int req_to_32();" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3OrwYQCOeV9Sr0apo898-13">
+          <mxGeometry y="7.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="140" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OrwYQCOeV9Sr0apo898-14">
+          <mxGeometry x="10" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3OrwYQCOeV9Sr0apo898-11" value="from_32-&amp;gt;&amp;nbsp; int ack_from_32();" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3OrwYQCOeV9Sr0apo898-14">
+          <mxGeometry y="7.5" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
