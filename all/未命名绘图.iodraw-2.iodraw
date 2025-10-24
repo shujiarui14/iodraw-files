@@ -79,7 +79,7 @@
         <mxCell id="3OrwYQCOeV9Sr0apo898-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="3OrwYQCOeV9Sr0apo898-27" value="enum info_idr_cs&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;unsigned char REQ_IMG=0x20,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;unsigned char REQ_PAS=0x21,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;unsigned char REQ_NULL=0x00&lt;/span&gt;&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;//REQ_IMG，请求服务器图像处理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3OrwYQCOeV9Sr0apo898-27" value="enum info_idr_cs&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;unsigned char REQ_IMG=0x20,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;unsigned char REQ_PAS=0x21,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;unsigned char REQ_NULL=0x00&lt;/span&gt;&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;//REQ_IMG，请求服务器图像处理&lt;/div&gt;&lt;div&gt;//REQ_PAS，服务器回信是否放行，以json格式传，需要包括的信息有&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="230" height="160" as="geometry" />
         </mxCell>
       </root>
