@@ -130,6 +130,9 @@
         <mxCell id="3OrwYQCOeV9Sr0apo898-36" value="说明" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vqQtofz1t8qeDLDaREkO-1" vertex="1">
           <mxGeometry x="20" y="30" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vqQtofz1t8qeDLDaREkO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="346" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
