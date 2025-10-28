@@ -10,7 +10,7 @@
         <mxCell id="GierP7AMr03VwX0C8snZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="315" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GierP7AMr03VwX0C8snZ-6" value="xx停车" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GierP7AMr03VwX0C8snZ-6" value="xx停车场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GierP7AMr03VwX0C8snZ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="GierP7AMr03VwX0C8snZ-18" value="实时日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="513" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GierP7AMr03VwX0C8snZ-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
