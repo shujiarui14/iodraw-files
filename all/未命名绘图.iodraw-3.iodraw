@@ -40,6 +40,9 @@
         <mxCell id="GierP7AMr03VwX0C8snZ-16" value="已用车位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GierP7AMr03VwX0C8snZ-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="507.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
