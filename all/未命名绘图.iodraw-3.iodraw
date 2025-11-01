@@ -47,7 +47,7 @@
           <mxGeometry x="513" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GierP7AMr03VwX0C8snZ-19" value="注册用户数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="510" width="75" height="30" as="geometry" />
+          <mxGeometry x="627.5" y="507.5" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
