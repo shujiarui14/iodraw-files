@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mf_YGnJKyY--B3aibCoL-16" value="&lt;i&gt;Brid&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-120" y="310" width="220" height="130" as="geometry" />
+          <mxGeometry x="-120" y="310" width="220" height="152" as="geometry" />
         </mxCell>
         <mxCell id="Mf_YGnJKyY--B3aibCoL-17" value="&lt;i&gt;#m_Name:string=&quot;test&quot;&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Mf_YGnJKyY--B3aibCoL-16">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="Mf_YGnJKyY--B3aibCoL-21" value="&lt;div&gt;&lt;i&gt;+fly():void=0&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Mf_YGnJKyY--B3aibCoL-16">
           <mxGeometry y="108" width="220" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Mf_YGnJKyY--B3aibCoL-22" value="&lt;div&gt;&lt;i&gt;+fly():void=0&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Mf_YGnJKyY--B3aibCoL-16">
+          <mxGeometry y="130" width="220" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
