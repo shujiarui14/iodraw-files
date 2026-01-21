@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"dfu3k9yzkw00","created":1768981377570,"text":"中心主题"},"children":[{"data":{"id":"dfu3kdre4sg0","created":1768981385817,"text":"分支主题"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"dfu3k9yzkw00","created":1768981377570,"text":"中心主题"},"children":[{"data":{"id":"dfu3kdre4sg0","created":1768981385817,"text":"分支主题","layout_mind_offset":{"x":-379,"y":84}},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
